@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3318","Login to the QA application with valid credentials","","2026-01-13","passed","2026-01-13","","Login Test","",""
+"","147","Get all plants with no token","","2026-01-13","passed","2026-01-13","","Plants API","",""
+"","835","Get plants from invalid endpoint","","2026-01-13","failed","2026-01-13","","Plants API","",""
+"","322","Get all plants with invalid token","","2026-01-13","passed","2026-01-13","","Plants API","",""
+"","5703","Get all plants with valid token","","2026-01-13","passed","2026-01-13","","Plants API","",""
+"","1037","Login to the QA application with invalid credentials","","2026-01-13","passed","2026-01-13","","Login Test","",""
