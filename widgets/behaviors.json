@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"80fd88268a76b3081e72d587cde93a1a","name":"Plants API","statistic":{"failed":4,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":4}},{"uid":"f181f4d4657859c416fa3ef7b59840ce","name":"Login Test","statistic":{"failed":2,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":2}}]}
