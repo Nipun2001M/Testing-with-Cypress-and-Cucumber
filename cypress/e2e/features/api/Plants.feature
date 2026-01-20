@@ -21,3 +21,4 @@ Feature: Plants API
         Given I have a valid Bearer token
         When send GET request to "/api/plantss"
         Then response status should be 404
+

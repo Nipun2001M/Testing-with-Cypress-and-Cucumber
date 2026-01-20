@@ -1,4 +1,5 @@
 class DashboardPage {
+  //verify
   VerifyDashboardPage() {
     cy.url().should("include", "/dashboard");
     cy.get(".mb-4").should("contain", "Dashboard");
